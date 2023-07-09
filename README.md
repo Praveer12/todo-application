@@ -1,4 +1,4 @@
 # todo-application
-add your tasks 
-after completion check it
-no need then delete it
+1. add your tasks 
+2. after completion check it
+3. no need then delete it
